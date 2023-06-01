@@ -27,3 +27,4 @@ let usuarioConectado = false;
 console.log(String(usuarioConectado)); // teremos a conversão da booleana para string, nesse caso teremos uma string “false”.
 usuarioConectado = true;
 console.log(String(usuarioConectado)); // agora teremos uma string “true”.
+
