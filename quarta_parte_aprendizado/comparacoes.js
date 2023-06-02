@@ -10,4 +10,4 @@ console.log( numero === texto) // false === here we can test the value and the t
 console.log(typeof numero)
 console.log(typeof texto)
 
-// we saw that in "segunda_parte_aprendizado".
+// we saw that in "segunda_parte_aprendizado".~

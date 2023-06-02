@@ -9,4 +9,5 @@ const ageClient = 16;
 //    console.log("juice")
 //}
 
+            //condicion              //true     //false
 console.log(ageClient >= minimunAge ? "beer" : "juice")
